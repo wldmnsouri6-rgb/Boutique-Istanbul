@@ -1,0 +1,6 @@
+{
+  "name": "Boutique Istanbul Béjaïa",
+  "description": "Magasin de vêtements pour hommes à Béjaïa (Rte de Boukhiama). Galerie collections, tenues du moment, réservation de taille, conseil style et itinéraire physique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
